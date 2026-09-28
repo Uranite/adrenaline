@@ -4,9 +4,6 @@ hash-format = "sha256"
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
 
 [[files]]
-file = "config/modpack_defaults/config/dynamic_fps.json"
-
-[[files]]
 file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 
 [[files]]
@@ -26,10 +23,6 @@ file = "mods/asynclogger.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -46,11 +39,7 @@ file = "mods/crash-assistant.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
+file = "mods/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
@@ -98,11 +87,19 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -118,6 +115,10 @@ file = "mods/servercore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
 
@@ -130,6 +131,10 @@ file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/zconfig.pw.toml"
 metafile = true
 
@@ -139,4 +144,8 @@ metafile = true
 
 [[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
