@@ -39,10 +39,6 @@ file = "mods/crash-assistant.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
