@@ -80,6 +80,10 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 metafile = true
 
@@ -125,6 +129,14 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
 metafile = true
 
 [[files]]
