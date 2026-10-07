@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/modpack_defaults/config/crash_assistant/config.toml"
-
-[[files]]
 file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 
 [[files]]
@@ -36,6 +33,14 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons-seedgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
@@ -127,6 +132,18 @@ file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 metafile = true
 
@@ -148,4 +165,8 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
 metafile = true
